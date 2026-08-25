@@ -2,6 +2,9 @@
 
 Projeto desenvolvido com HTML, CSS e JavaScript, utilizando a API OpenWeather para exibir informações climáticas em tempo real de cidades ao redor do mundo.
 
+## 🌐 Visualize o projeto:
+[Ver Projeto Online] (https://valentimdevbr.github.io/previsao-do-tempo/)
+
 ## 🚀 Funcionalidades
 
 * Buscar cidades do mundo inteiro.
